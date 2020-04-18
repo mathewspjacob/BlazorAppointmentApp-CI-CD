@@ -1,0 +1,6 @@
+git init
+git remote add origin "URL"
+git pull origin master
+git add .
+git commit -m "Initialize the project"
+git push origin 
